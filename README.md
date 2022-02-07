@@ -7,4 +7,4 @@ python3 obfuscate.py my_batch_file.bat obfuscated.bat
 
 # Note from author
 
-I am not responsible for your actions with this program. This script is for educational purposes only.
+I am not responsible for your actions with this script. This script is for educational purposes only.
